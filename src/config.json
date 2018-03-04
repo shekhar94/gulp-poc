@@ -1,0 +1,12 @@
+{
+    "dev": {
+        "url": "devUrl:3000"
+    },
+    "prod": {
+        "url": "prodUrl:3000"
+    },
+    "common": {
+        "data": "commonConfigData",
+        "url1": "commonUrl"
+    }
+}
